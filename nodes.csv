@@ -1,0 +1,5 @@
+id,Name,Service,port,repository
+0,titan,servicio1;servicio2;servicio3,8220,https://github.com/udistrital/titan_api_mid
+1,cumplidos,servicio1;servicio2,8221,https://github.com/udistrital/cumplidos_mid
+2,agora,servicio1;servicio3,8331,https://github.com/udistrital/agora_api_crud
+3,evaluaciones,servicio1,4342,https://github.com/udistrital/evaluacion_mid

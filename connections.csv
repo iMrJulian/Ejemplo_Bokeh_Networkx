@@ -1,0 +1,10 @@
+Source,Target,Weight,Service
+titan,cumplidos,5,123
+gestor_doc,titan,1,324
+agora,titan,2,587
+gestor_doc,evaluaciones,1,1789
+titan,novedades,5,123
+titan,planeacion,5,123
+titan,arka,5,123
+titan,bienestar,5,123
+titan,administrativa,5,123
