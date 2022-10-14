@@ -13,3 +13,8 @@ pip install bokeh
 pip install networkx
 pip install matplotlib
 ```
+Para correr el programa
+
+```ruby
+py main.py
+```
